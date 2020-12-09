@@ -72,7 +72,8 @@ var func = function(){
     console.log(error);
   });
 
-  //Additional own javascript
+  //Additional own javascript 
+  console.log("TEST");
 
 }
 
