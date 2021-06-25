@@ -64,7 +64,7 @@ var func = function(){
 
 //end variable declaration
 
-  client.sendRequest("GET", "text", "", "", {}, false,
+  client.sendRequest("GET", "taxt", "", "", {}, false,
   function(data, type) {
     console.log(data);
   },
